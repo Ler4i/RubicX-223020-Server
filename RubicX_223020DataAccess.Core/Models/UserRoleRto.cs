@@ -9,5 +9,6 @@ namespace RubicX_223020DataAccess.Core.Models
         [Key] public int Id { get; set; }//столбец
         public string Name { get; set; }
 
+        
     }
 }
