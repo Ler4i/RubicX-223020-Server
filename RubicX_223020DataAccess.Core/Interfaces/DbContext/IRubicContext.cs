@@ -13,3 +13,4 @@ namespace RubicX_223020DataAccess.Core.Interfaces.DbContext
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     }
 }
+    
